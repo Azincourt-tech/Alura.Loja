@@ -1,2 +1,2 @@
 # Alura.Loja
-Curso sobre o Entity Framework
+Curso sobre a utilização do Entity Framework em um projeto Back-End Csharp
